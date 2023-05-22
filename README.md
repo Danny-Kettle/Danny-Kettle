@@ -23,7 +23,7 @@
 
 
 <h2>Contact</h2>
-📫 Reach my email:  <strong>danny.kettle@outlook.com</strong>><br/>
+📫 Reach my email:  <a href="mailto:danny.kettle@outlook.com"><strong>danny.kettle@outlook.com</strong></a><br/>
 🤳 Call me maybe: (+44) 07598 175988
   
 
