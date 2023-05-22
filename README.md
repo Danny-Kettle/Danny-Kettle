@@ -19,6 +19,17 @@
       <li>Echo Ecommerce - An SEO friendly tech ecommerce. The site makes use of Next.js to provide server-side rendering for it's products - <a href="https://github.com/Danny-Kettle/EcommerceSEO">Here is the source code 😁</a></li>
     <ul>
  </div>
+      
+      
+<div>
+    <h3>Certificates 🏅</h3>
+    <ul>
+      <li>Manchester Metropolitan University - <strong>Software Engineering </strong><em>Expected 1st Class</em></li>
+      <li>BCS, The Chartered Institute for IT - <strong>BCS Lvl 3 Certificate in Programming</strong></li>
+      <li>BCS, The Chartered Institute for IT - <strong>BCS Lvl 3 Certificate in Software Development Context & Methodologies</strong></li>
+      <li>Microsoft MTA: <strong>Software Development Fundamentals</strong></li>
+    <ul>
+ </div>
 
 
 
