@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Danny</h1>
+<h3 align="left">👋 Hey there! I'm a young professional with a BSc Honours in Software Engineering. </h3> 
 
-<!--
-**Danny-Kettle/Danny-Kettle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Currently on the lookout for full-time software developer role. I'm all about solving problems and striving for excellence. My passion for coding runs deep, and I can't wait to join a company that values growth and development. With my solid knowledge and skills, I'm ready to make a meaningful impact and level up with the team! Let's connect and make awesome things happen! 🚀
+</p>
 
-Here are some ideas to get you started:
+<div>
+  <h3>Current Projects 🔭</h3>
+  <ul>
+    <li>I’m currently working freelance on <strong>Craftsman AE LTD Website</strong> </li>
+    <li>Rejigging my freelance website with modern technologies, such as React and Tailwind</li>
+  <ul>
+ </div>
+  
+  <div>
+    <h3>Recent Projects 📚</h3>
+    <ul>
+      <li>Cardiomyopathy Graphs - This application used VUE, Tailwind, and Chart.js - <a href="https://github.com/Danny-Kettle/Cardiomyopathies">Here is the source code 😁</a></li>
+      <li>Echo Ecommerce - An SEO friendly tech ecommerce. The site makes use of Next.js to provide server-side rendering for it's products - <a href="https://github.com/Danny-Kettle/EcommerceSEO">Here is the source code 😁</a></li>
+    <ul>
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2>Contact</h2>
+📫 Reach my email:  <strong>danny.kettle@outlook.com</strong>><br/>
+🤳 Call me maybe: (+44) 07598 175988
+  
+
